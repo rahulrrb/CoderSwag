@@ -33,6 +33,9 @@ class MainActivity : AppCompatActivity() {
         //for Optimization, we are adding this
         categoryListView.setHasFixedSize(true)
 
+
+        //android project
+
         /*categoryListView.setOnItemClickListener { adapterView, view, position, id ->
             val category =DataService.categories[position]
             Toast.makeText(this,"You Clicked on the ${category.title} cell ", Toast.LENGTH_SHORT).show()
