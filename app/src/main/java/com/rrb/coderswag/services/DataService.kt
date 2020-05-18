@@ -50,15 +50,14 @@ object DataService {
         Product("Badge Light Gray Shirt", "₹410", "shirt2"),
         Product("Logo Shirt Red", "₹415", "shirt3"),
         Product("Hustle Shirt", "₹440", "shirt4"),
-        Product("Kickflip Studios", "₹540", "shirt5"),
-        Product("Gray Hoodie", "₹252", "hoodie1"),
-        Product("Red Hoodie", "₹210", "hoodie2"),
-        Product("Hoodie Grayiesh", "₹215", "hoodie3"),
-        Product("Black Hoodie", "₹240", "hoodie4"),
-        Product("Gray Hoodie", "₹252", "hoodie1"),
-        Product("Red Hoodie", "₹210", "hoodie2"),
-        Product("Hoodie Grayiesh", "₹215", "hoodie3"),
-        Product("Black Hoodie", "₹240", "hoodie4")
+        Product("Black Shirt", "₹452", "shirt1"),
+        Product("Badge Light Gray Shirt", "₹410", "shirt2"),
+        Product("Logo Shirt Red", "₹415", "shirt3"),
+        Product("Hustle Shirt", "₹440", "shirt4"),
+        Product("Black Shirt", "₹452", "shirt1"),
+        Product("Badge Light Gray Shirt", "₹410", "shirt2"),
+        Product("Logo Shirt Red", "₹415", "shirt3"),
+        Product("Hustle Shirt", "₹440", "shirt4")
     )
     val digitalGood = listOf<Product>()
 
